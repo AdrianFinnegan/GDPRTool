@@ -1,0 +1,6 @@
+d:\Dev\GDPR\GDPRTool\GDPRTool\bin\Release\GDPRTool.exe.config
+d:\Dev\GDPR\GDPRTool\GDPRTool\bin\Release\GDPRTool.exe
+d:\Dev\GDPR\GDPRTool\GDPRTool\bin\Release\GDPRTool.pdb
+d:\Dev\GDPR\GDPRTool\GDPRTool\obj\Release\GDPRTool.exe
+d:\Dev\GDPR\GDPRTool\GDPRTool\obj\Release\GDPRTool.pdb
+d:\Dev\GDPR\GDPRTool\GDPRTool\obj\Release\GDPRTool.csprojResolveAssemblyReference.cache

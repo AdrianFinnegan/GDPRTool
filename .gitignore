@@ -1,0 +1,27 @@
+﻿#ignore thumbnails created by windows
+Thumbs.db
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+GDRPTool/[Bb]in
+GDRPTool/[Bb]in/
+GDRPTool/[Oo]bj
+GDRPTool/[Oo]bj/
+GDRPTool/[Dd]ebug/
+GDRPTool/[Dd]ebug*/
+GDRPTool/[Rr]elease/
+
+# NuGet Packages Directory
+packages
+packagesxx
+
+# git diff files
+*.orig
+
+
+# include nuget.exe
+!nuget.exe
