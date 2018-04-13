@@ -12,3 +12,5 @@ Runs on a Windows platform with .net 4 or better installed
   >GDPRTool.exe C:\MyDocuments
 
 Where the location is the source of files to be processed.
+
+A pre compiled copy can be found in the PreBuilt folder. Unzip and run as above
